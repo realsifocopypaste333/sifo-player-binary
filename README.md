@@ -2,7 +2,7 @@
 
 This is only binary ,that compile with pyinstaller, taken from  https://github.com/AshkanGanj/Music-django-app/
 
-so we dont need to install and install python, django etc :)
+so we dont need to install and setting python, django etc :)
 
 this is python django music server like simple spotify :D
 
@@ -49,7 +49,7 @@ or
 ./manage ip:port
 
 
-examample
+example
 
 
 ./manage 192.168.43.135:3333
