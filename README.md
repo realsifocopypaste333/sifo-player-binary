@@ -59,9 +59,9 @@ example
 
 for admin
 
-127.0.0.1/admin
+127.0.0.1:8000/admin
 
-192.168.43.135/admin 
+192.168.43.135:3333/admin 
 
 
 we can edit the song, add songs, remove the songs etc in admin :)
