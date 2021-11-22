@@ -46,13 +46,13 @@ open with web browser (firefox, chromium / libre wolf etc)
 or 
 
 
-./manage ip:port
+./manage runserver ip:port
 
 
 example
 
 
-./manage 192.168.43.135:3333
+./manage runserver 192.168.43.135:3333
 
 
 
